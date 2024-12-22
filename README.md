@@ -7,7 +7,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://gitlab.com/machine-learning4542524/rag_projects/webpage_chat.git
+   git clone https://github.com/akkysoni/webpage_chat.git
    ```
 
 2. **Install the required dependencies:**
@@ -45,11 +45,4 @@ Contributions are welcome! If you'd like to contribute to this project:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
-- Thanks to [makeareadme.com](https://www.makeareadme.com/) for the README template.
 - Special thanks to the Llama3 and RAG teams for their amazing work on these technologies.
-
----
-
-Let me know if you need any further changes!
-
