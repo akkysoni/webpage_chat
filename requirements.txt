@@ -1,0 +1,6 @@
+streamlit
+langchain_community
+langchain 
+bs4
+faiss-cpu
+ollama
